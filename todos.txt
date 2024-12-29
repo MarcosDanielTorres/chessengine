@@ -1,0 +1,5 @@
+- Jugador
+- Turno
+- Movimiento. Como especificamos movimiento?
+
+"Turno del jugador 1, que queres mover?"
