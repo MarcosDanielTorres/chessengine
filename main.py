@@ -9,6 +9,7 @@ tablero = [
     ['R', 'N', 'B', 'K', 'Q', 'B', 'N', 'R'],
 ]
 
+print('hola')
 
 for fila in range(0, 8):
     for columna in range(0, 8):
